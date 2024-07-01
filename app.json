@@ -1,9 +1,9 @@
 {
-  "name": "achu-md@v5.0.0",
+  "name": "achu-md@v6.0.0",
   "description": "I am achu-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
   "website": "https://web.giftedtechnexus.co.ke",
   "repository": "https://github.com/Appumodex/Appumodex.git",
-  "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
+  "logo": "https://i.imgur.com/TR4vqHC.jpeg",
   "keywords": ["achu-md", "achu-modex", "Achu-Md"],
   "success_url": "/achu/",
   "stack": "heroku-24",
