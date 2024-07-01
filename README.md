@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/JhfX9N2.jpeg'/></a>
-## Astro-XD Whatsapp Bot
-Astro-XD - Simple whatsapp Multi Device bot based on 
+## Achu-XD Whatsapp Bot
+Achu-XD - Simple whatsapp Multi Device bot based on 
 Xasena 
 
 ``` Made With 🎌 ```
@@ -57,6 +57,6 @@ Xasena
 
 <br>
 
-* [`LENZO-XD`](https://github.com/Lenzo-XD)
+* [`ACHU-XD`](https://github.com/Achu-XD)
 
  </details>
