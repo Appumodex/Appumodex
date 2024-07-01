@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/JhfX9N2.jpeg'/></a>
+<a><img src='https://i.imgur.com/TR4vqHC.jpeg'/></a>
 ## Achu-XD Whatsapp Bot
 Achu-XD - Simple whatsapp Multi Device bot based on 
 Xasena 
@@ -36,7 +36,7 @@ Xasena
 <a href="https://chat.whatsapp.com/BUxCJKvO1j2FWkFIOoiCod"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=green"/></a>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/TR4vqHC.jpeg'/></a>
 
  
 
