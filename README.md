@@ -1,22 +1,62 @@
-Copyright strict under GNU GENERAL PUBLIC LICENSE
- => Split audios with , commas
- => Editing is not compulsory. If need to change audio, then edit
+<a><img src='https://i.imgur.com/JhfX9N2.jpeg'/></a>
+## Astro-XD Whatsapp Bot
+Astro-XD - Simple whatsapp Multi Device bot based on 
+Xasena 
+
+``` Made With 🎌 ```
+
+***
+
+### Setup
+
+1. Fork This Repository
+   <br>
+<a href='https://github.com/rikkubot/astro-v2/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
+2. Get Session I'D.
+    <br>
+<a href='https://astro-xd.onrender.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=codeium&logoColor=white&labelColor=black&color=black'/></a>
+
+***
+### Deploy
+
+1. If You don't have a account in Heroku Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=violet'/></a>
+
+
+
+2. Now Deploy
+    <br>
+<a href='https://heroku.com/deploy?template=https://github.com/rikkubot/astro-v2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=violet'/></a>
+
+
+***
+* Join Group For Help
+     <br>
+<a href="https://chat.whatsapp.com/BUxCJKvO1j2FWkFIOoiCod"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=green"/></a>
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
  
-*/
-const {SUDO} = require('../config');
-var duration = 19998000
-var audios = `https://i.imgur.com/5PoNdG5.mp4,https://i.imgur.com/Y8s8hTJ.mp4,https://i.imgur.com/80ZpjQV.mp4,https://i.imgur.com/VXOOJS5.mp4`;
-const {getAudioBufferFromLink,skbuffer} = require('dexter-bots/rcd-md')
-const {readFileSync} = require('fs')
-const {Module} = require('../main');
-// Module({pattern: 'mention ?(.*)', fromMe: true,dontAddCommandList: true}, (async (message, match) => {return;}));
-Module({on: 'text' ,fromMe: false}, (async (message, match) => {
-var jids = audios.split(',').filter(link => link.includes('mp4'));
-try {var men = message.mention[0].split('@')[0]} catch {return;}
-if (message.mention && message.mention[0] && SUDO.includes(men)) {
-var waveform = Array.from({length: 15}, () => Math.floor(Math.random() * 100)); // use this for fancy: [0,99,0,99,0,99]
-getAudioBufferFromLink(jids[Math.floor(Math.random()*jids.length)],async function(audio) {
-if (audio) {
-return message.client.sendMessage(message.jid, {audio,mimetype: 'audio/mp4',ptt: true,waveform }, { quoted: message.data })}
-})}
-}));
+
+### External-Plugins
+
+<details close>
+<summary>Read More</summary>
+
+<br>
+
+
+* [`External PLUGINS`]()
+
+### Thanks To
+
+<details close>
+<summary>Read More</summary>
+
+<br>
+
+* [`LENZO-XD`](https://github.com/Lenzo-XD)
+
+ </details>
