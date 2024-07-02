@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/TR4vqHC.jpeg'/></a>
 ## 𝐀𝐂𝐇𝐔-𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
-Achu-MD - Simple whatsapp Multi Device bot based on devutty
+Achu-MD - Simple whatsapp Multi Device bot based on Nexa 
 
 
 ``` Made With 🇳🇪```
