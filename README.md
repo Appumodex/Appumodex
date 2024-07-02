@@ -1,13 +1,13 @@
 <a><img src='https://i.imgur.com/TR4vqHC.jpeg'/></a>
-## Achu-XD Whatsapp Bot
-Achu-XD - Simple whatsapp Multi Device bot based on devutty
+## 𝐀𝐂𝐇𝐔-𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
+Achu-MD - Simple whatsapp Multi Device bot based on devutty
 
 
 ``` Made With 🇳🇪```
 
 ***
 
-### Setup
+### 𝐒𝐄𝐓𝐔𝐏 
 
 1. Fork This Repository
    <br>
@@ -17,7 +17,7 @@ Achu-XD - Simple whatsapp Multi Device bot based on devutty
 <a href='https://achu-xd.onrender.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=codeium&logoColor=white&labelColor=black&color=black'/></a>
 
 ***
-### Deploy
+### 𝐃𝐄𝐏𝐋𝐎𝐘 
 
 1. If You don't have a account in Heroku Create a account.
     <br>
@@ -31,7 +31,7 @@ Achu-XD - Simple whatsapp Multi Device bot based on devutty
 
 
 ***
-*𝐉𝐎𝐈𝐍
+𝐉𝐎𝐈𝐍
      <br>
 <a href="https://chat.whatsapp.com/KO0nCsm89HiK4Hxv1F6gpX"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=green"/></a>
 
@@ -40,7 +40,7 @@ Achu-XD - Simple whatsapp Multi Device bot based on devutty
 
  
 
-### External-Plugins
+### 𝐄𝐗𝐓𝐄𝐑𝐍𝐀𝐋-𝐏𝐋𝐔𝐆𝐈𝐍𝐒
 
 <details close>
 <summary>Read More</summary>
