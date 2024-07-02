@@ -3,7 +3,7 @@
 Achu-XD - Simple whatsapp Multi Device bot based on devutty
 
 
-``` Made With 🎌 ```
+``` Made With 🇳🇪```
 
 ***
 
@@ -11,7 +11,7 @@ Achu-XD - Simple whatsapp Multi Device bot based on devutty
 
 1. Fork This Repository
    <br>
-<a href='https://github.com/rikkubot/astro-v2/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/rikkubot/astro-v6/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 2. Get Session I'D.
     <br>
 <a href='https://achu-xd.onrender.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=codeium&logoColor=white&labelColor=black&color=black'/></a>
@@ -31,12 +31,12 @@ Achu-XD - Simple whatsapp Multi Device bot based on devutty
 
 
 ***
-* Join Group For Help
+*𝐉𝐎𝐈𝐍
      <br>
 <a href="https://chat.whatsapp.com/KO0nCsm89HiK4Hxv1F6gpX"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=green"/></a>
 
 
-<a><img src='https://i.imgur.com/TR4vqHC.jpeg'/></a>
+<a><img src='https://i.imgur.com/YyMKkgp.jpeg'/></a>
 
  
 
@@ -50,7 +50,7 @@ Achu-XD - Simple whatsapp Multi Device bot based on devutty
 
 * [`External PLUGINS`]()
 
-### Thanks To
+### Thanks To Ammuzz
 
 <details close>
 <summary>Read More</summary>
